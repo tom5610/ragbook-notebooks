@@ -1,4 +1,7 @@
-langchain==0.0.208 
-openai==0.27.8 
+langchain==0.2.11
+openai==1.37.1
 python-dotenv
 ipykernel
+boto3
+langchain_aws
+anthropic
